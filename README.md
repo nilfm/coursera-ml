@@ -3,9 +3,9 @@
 ## Exercise 1
 
 - [x] Warm up exercise  
-- [ ] Compute cost for one variable  
-- [ ] Gradient descent for one variable   
-- [ ] Feature normalization 
-- [ ] Compute cost for multiple variables  
-- [ ] Gradient descent for multiple variables  
-- [ ] Normal equations  
+- [x] Compute cost for one variable  
+- [x] Gradient descent for one variable   
+- [x] Feature normalization 
+- [x] Compute cost for multiple variables  
+- [x] Gradient descent for multiple variables  
+- [x] Normal equations  
