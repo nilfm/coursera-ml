@@ -1,4 +1,4 @@
-# CourseraML
+# Machine Learning course at Coursera
 
 ## Exercise 1
 
