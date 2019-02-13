@@ -9,3 +9,12 @@
 - [x] Compute cost for multiple variables  
 - [x] Gradient descent for multiple variables  
 - [x] Normal equations  
+
+## Exercise 2
+
+- [x] Sigmoid function 
+- [x] Compute cost for logistic regression  
+- [x] Gradient for logistic regression   
+- [ ] Predict function 
+- [ ] Compute cost for regularized LR  
+- [ ] Gradient for regularized LR  
