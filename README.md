@@ -15,6 +15,6 @@
 - [x] Sigmoid function 
 - [x] Compute cost for logistic regression  
 - [x] Gradient for logistic regression   
-- [ ] Predict function 
-- [ ] Compute cost for regularized LR  
-- [ ] Gradient for regularized LR  
+- [x] Predict function 
+- [x] Compute cost for regularized LR  
+- [x] Gradient for regularized LR  
