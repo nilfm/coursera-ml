@@ -21,7 +21,20 @@ idx = zeros(size(X,1), 1);
 % Note: You can use a for-loop over the examples to compute this.
 %
 
-
+m = size(X, 1);
+for i = 1:m
+  best_k = -1;
+  best_dist_sq = 1e9;
+  for k = 1:K
+    diff = X(i, :)-centroids(k, :);
+    dist_sq = diff*diff';
+    if (dist_sq < best_dist_sq)
+      best_dist_sq = dist_sq;
+      best_k = k;
+    end
+    idx(i) = best_k;
+  end
+end
 
 
 
